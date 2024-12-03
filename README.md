@@ -1,5 +1,5 @@
-# Mobile Version of the Web System
-# Project Name: Birthday Web System (Mobile Version)
+# Mobile Version of the jemalyn-bday
+--Project Name: Birthday Web System (Mobile Version)
 
 # Overview
 The mobile version of the Birthday Web System ensures a  responsive experience for jemalyn accessing the site from mobile device. Designed with Bootstrap's responsive framework, the layout dynamically adapts to different screen sizes while maintaining an aesthetically pleasing and functional design.
