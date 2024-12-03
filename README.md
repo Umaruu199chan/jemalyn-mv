@@ -12,4 +12,5 @@ JavaScript (Optional): Animations and interactive elements.
 
 # Support
 For questions or issues, please contact Patrick Meredor. 😊
+
 Enjoy the mobile-friendly Birthday Web System! 🎉
