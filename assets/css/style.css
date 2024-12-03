@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: pixel;
+    src: url(../fonts/PixelifySans-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: nova;
+    src: url(../fonts/NovaMono-Regular.ttf);
+}
+body {
+    background: url('assets/images/bg.png');
+    background-size: cover;
+    background-position: center;  
+    background-attachment: fixed;  
+    margin: 0;
+    height: 100%;
+  }
+.first-container h1{
+    font-family: pixel;
+}
+.first-container p {
+    font-family: nova;
+}
